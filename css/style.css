@@ -1,0 +1,22 @@
+* {
+  font-family: "Roboto", "Raleway-Bold";
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.header-navigation-logo {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #2e2f42;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: 21px;
+}
+
+.header-navigation-logo-web {
+  color: #4d5ae5;
+}
