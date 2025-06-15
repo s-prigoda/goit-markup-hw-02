@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -80,7 +80,7 @@ a {
 }
 
 .header-list-item-link {
-  color: #2e2f42;
+  color: #434455;
 }
 /* navigation section end */
 
@@ -109,6 +109,7 @@ a {
 
 .benefits {
   background-color: #f4f4fd;
+  color: #2e2f42;
 }
 
 .benefits-title {
@@ -144,7 +145,7 @@ a {
 /* team section start */
 
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .team-list {
