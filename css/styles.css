@@ -63,19 +63,14 @@ a {
 }
 
 .header-list {
-  font-style: italic;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
 }
 
 .header-address {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
   font-style: normal;
 }
 
@@ -124,20 +119,15 @@ a {
 }
 
 .benefits-list-title {
-  font-style: italic;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
+  color: #2e2f42;
 }
 .benefits-list-text {
-  font-style: italic;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
   color: #434455;
 }
 /* benefits section end */
@@ -152,6 +142,10 @@ a {
   background-color: #ffffff;
 }
 
+.team-list-item {
+  background-color: #f4f4fd;
+}
+
 .team-title {
   font-size: 36px;
   line-height: 1.11;
@@ -162,21 +156,15 @@ a {
 }
 
 .team-list-title {
-  font-style: italic;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
   color: #2e2f42;
 }
 .team-list-text {
-  font-style: italic;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: underline;
-  text-decoration-skip-ink: none;
   color: #434455;
 }
 
