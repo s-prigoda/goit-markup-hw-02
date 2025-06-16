@@ -73,15 +73,26 @@ a {
   color: #2e2f42;
 }
 
-.header-address {
+.header-list-item-link {
+  color: #2e2f42;
+}
+
+/* adress */
+
+.address-list {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-style: normal;
-}
-
-.header-list-item-link {
   color: #434455;
 }
+
+.adress-list-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-style: normal;
+  color: #434455;
+}
+
 /* navigation section end */
 
 /* hero section start */
